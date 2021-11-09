@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 __Juan Alberto Cabrera Garcia__
-__54066780-D__
 
 * Ingeniero Técnico Agrícola
 
